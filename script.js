@@ -36,19 +36,19 @@
 // fh.innerHTML = "mai yeh aasani se badal skata hnu";
 // fh.innerHTML = "how are you bro";
 
-let boxes = document.querySelector(".boxes");
-boxes.style.backgroundColor = ("red");
+// let boxes = document.querySelector(".boxes");
+// boxes.style.backgroundColor = ("red");
 
-let onlyBox = document.querySelector(".box");
-onlyBox.style.color = ("white");
-onlyBox.style.height = ("2rem");
+// let onlyBox = document.querySelector(".box");
+// onlyBox.style.color = ("white");
+// onlyBox.style.height = ("2rem");
 
-onlyBox.innerHTML = "hello";
+// onlyBox.innerHTML = "hello";
 
-setTimeout(function () {
-    onlyBox.innerHTML = "lavdya"
-}, 2000)
+// setTimeout(function () {
+//     onlyBox.innerHTML = "lavdya"
+// }, 2000)
 
-setTimeout(function () {
-    onlyBox.innerHTML = "MC"
-}, 4000)
+// setTimeout(function () {
+//     onlyBox.innerHTML = "MC"
+// }, 4000)
